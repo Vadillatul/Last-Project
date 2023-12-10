@@ -147,7 +147,6 @@ $data = mysqli_fetch_array($ubah);
                     echo "Data anda telah di edit";
                     echo "<meta http-equiv=refresh content=1; URL='register.php'>";
                 }
-
                 ?>
             </div>
         </div>
