@@ -99,7 +99,6 @@ if (isset($_POST['send'])) {
 
                     echo "</br>Jangan sebarang menghapus pesan!! hubungi admin jika terjadi kesalahan.";
                     echo "<meta http-equiv=refresh content=2; URL='register.php'>";
-
                 } 
                 ?>
 
