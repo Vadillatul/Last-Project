@@ -53,7 +53,6 @@ $mynote = mysqli_query($catatan, "SELECT * FROM mynote");
 
                echo "</br>Jangan sebarang menghapus catatan!! hubungi admin jika terjadi kesalahan.";
                echo "<meta http-equiv=refresh content=2; URL='note.php'>";
-
             }
             ?>
 
@@ -65,7 +64,6 @@ $mynote = mysqli_query($catatan, "SELECT * FROM mynote");
       </div>
    </div>
 
-   <!-- INI FOOTER -->
 </body>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.6.3/flowbite.min.js"></script>
